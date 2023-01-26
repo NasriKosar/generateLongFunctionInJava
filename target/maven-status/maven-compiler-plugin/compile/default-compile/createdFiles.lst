@@ -1,4 +1,8 @@
-com/mycompany/generatelongfunctioninjava/MethodLineNumber.class
 com/mycompany/generatelongfunctioninjava/MethodCallPrinter.class
 com/mycompany/generatelongfunctioninjava/MethodCallPrinter$MethodVisitor.class
 com/mycompany/generatelongfunctioninjava/MethodLineNumber$MethodVisitor.class
+com/mycompany/generatelongfunctioninjava/MethodLineNumber.class
+com/mycompany/generatelongfunctioninjava/MethodCallPrinter$MethodVisitorDec.class
+com/mycompany/generatelongfunctioninjava/GenereateLongFunc.class
+com/mycompany/generatelongfunctioninjava/GenereateLongFunc$MethodVisitorDec.class
+com/mycompany/generatelongfunctioninjava/GenereateLongFunc$MethodVisitor.class
